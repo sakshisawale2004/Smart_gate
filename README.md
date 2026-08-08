@@ -26,7 +26,7 @@ Servo Motor
 VCC → 5V
 GND → GND
 Signal → Pin 6
-LED
+Led
 Anode → Pin 13
 Cathode → GND via 220Ω resistor
 🧠 Working Principle
